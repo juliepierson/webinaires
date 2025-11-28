@@ -14,9 +14,7 @@ https://cnrs.zoom.us/j/91780565150?pwd=73DFMTLMHanXs5RoPtE0K3fYXKbfCH.1
 * Julie Pierson, IE Cnrs Géomaticienne, LETG UMR 6554
 * Davien Blanc, IE Cnrs, Ingénierie logicielle et base de données, LETG UMR 6554
 
- <a href="https://igarun.univ-nantes.io/CartABl/images/Visuel_CartABl-Webinaire_Magis-AR9-Dec2025.svg">
-  <img src="./VisuelCartabl.svg" alt="Visuel CartABl">
-</a> 
+https://magisar9.github.io/webinaires/VisuelCartabl.svg
 
 ### Résumé : 
 Tirer parti de l’édition numérique en intégrant de l’interactivité dans les documents graphiques (cartes, datavisualisations). Fabriquer des documents de manière simple sans coder. Voilà ce que permet CartABl en mettant à disposition, en accès libre et gratuit, un logiciel d’intégration d’interactivité embarquée dans les fichiers vectoriels SVG produits avec un logiciel de dessin. L’objectif de cette Carte Blanche de l’AR9 du GDR Magis est de présenter CartABl développé en mode design collaboratif à LETG (UMR 6554 Cnrs) et de montrer des exemples de productions. Notre démarche exploratoire permet d’aborder une méthode innovante de scénarisation graphique et interroge sur l’interactivité au service de la valorisation scientifique. Nous vous proposons un échange autour de ces thématiques.
